@@ -1,0 +1,16 @@
+.Loader__btn {
+  background-color: #52a1a1;
+  color: aliceblue;
+  &:hover {
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    color: aliceblue;
+  }
+  &:active {
+    background: #427d7d;
+  }
+}
+
+
+.Loader__form{
+  margin: 10px;
+}
